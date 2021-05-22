@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.login-card{
+  background-color: #1976D2;
+}
+
+.login-fields{
+  width: 100%;
+  margin: 10px auto;
+  display: block;
+}
+
